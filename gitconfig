@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles
-	name = Junya
+	email = jm18l028@g.hit-u.ac.jp
+	name = Junya Nomura
