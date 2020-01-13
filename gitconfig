@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = zsh git_setup.sh
-	name = cd ~/code/$GITHUB_USERNAME/dotfiles
+	email = jm18l028@g.hit-u.ac.jp
+	name = Junya Nomura
